@@ -39,7 +39,8 @@ On older Ubuntu systems, install also `notify-send`. It is not strictly necessar
     makepkg
     sudo pacman -U izulu-git-0.6.4.298a22d-1-any.pkg.tar.xz
     
-Install from AUR repo
+Install from AUR repo:
+
     yaourt -S izulu-git
 
 ## Start
